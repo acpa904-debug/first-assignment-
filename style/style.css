@@ -55,7 +55,7 @@
     max-width: 1360PX;
     text-align: center;
      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-    background-image: url(/assets/hero-bg.png);
+    background-image: url(../assets/hero-bg.png);
     background-size: cover;
     background-position: center;
     padding: 80px 20px;
