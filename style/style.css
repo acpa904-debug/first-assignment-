@@ -140,4 +140,73 @@
 }
 
 
+/* notes_section */
+.notes_section{
+    width: 100%;
+    max-width: 1160px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.notes_section .text_section h3{
+    color: #001931;
+    font-size: 48px;
+    font-weight: bold
+
+}
+.notes_section .text_section p{
+    color: #627382;
+    font-size: 16px;
+}
+
+
+.card_section{
+    display: flex;
+    margin-top: 50px;
+      gap: 25px;
+    text-align: center;
+    margin-bottom: 120px;
+  
+    
+}
+
+ .card_section .card_info{
+    width: 322px;
+    box-shadow: 0 0 8px #7a7373;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 60px;
+   
+   
+ }
+ .card_info .vectory{
+    background-color: #f95555;
+    width: 36px;
+    border-radius: 100%;
+    padding: 8px;
+   
+ }
+
+  .card_section .card_info h3{
+    font-size: 16px;
+    font-weight: 600;
+    color: #001931;
+    margin-bottom: 15px;
+  }
+ .card_section .card_info p{
+    color: #627382;
+    font-size: 16px;
+    line-height: 35px;
+    padding: 20px 0;
+  
+
+    }
+
+
+
+
+
+
 
